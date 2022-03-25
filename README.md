@@ -1,6 +1,7 @@
 - Hola soy Andrés López ✌️
-- Soy médico de la Universidad de Caldas 🏥♥️
-- Me gusta el gimnasio 💯 y hacer magia ♠️♦️
+- Médico de la Universidad de Caldas 🏥♥️
+- Me gusta el gimnasio 💯
+- Soy apasionado por la ♦️magia♠️
 - Actualmente estoy aprendiendo desarrollo
 Web con JS 😌
 - Siempre he sido apasionado por los
